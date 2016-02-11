@@ -1,4 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">Face Slim Donation</string>
-    <string name="thanks_for_support">Hello World!</string>
+    <string name="app_name_short">FS Donation</string>
+    <string name="thanks_for_support">Thanks for your support. I\'m glad you did it!\nYou can uninstall the app now :)</string>
 </resources>

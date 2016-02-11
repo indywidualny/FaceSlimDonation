@@ -1,2 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
-<resources></resources>
+<resources>
+    <string name="app_name">Dotacja Face Slim</string>
+    <string name="app_name_short">FS Dotacja</string>
+    <string name="thanks_for_support">Dzięki za wsparcie. Niezmiernie się cieszę!\nMożesz teraz odinstalować tę aplikację :)</string>
+</resources>
