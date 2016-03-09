@@ -17,4 +17,5 @@ class MainActivity : Activity() {
         toolbar.title = " " + getString(R.string.app_name)
         toolbar.setTitleTextColor(Color.WHITE)
     }
+
 }
